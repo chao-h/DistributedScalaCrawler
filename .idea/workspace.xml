@@ -1,117 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ec2cb449-05a0-45a1-8c2e-81970a3780d5" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/modules/distributedscalacrawler-build.iml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/modules/distributedscalacrawler.iml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/sbt.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/scala_compiler.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change beforePath="$PROJECT_DIR$/project/project/target/config-classes/$da6aeb5ed3bc07970a10$$anonfun$$sbtdef$1.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/project/project/target/config-classes/$da6aeb5ed3bc07970a10$.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/project/project/target/config-classes/$da6aeb5ed3bc07970a10.cache" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/project/project/target/config-classes/$da6aeb5ed3bc07970a10.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$1b3f7c7c5cce064487f9$$anonfun$$sbtdef$1$$anonfun$apply$1.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$1b3f7c7c5cce064487f9$$anonfun$$sbtdef$1.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$1b3f7c7c5cce064487f9$$anonfun$$sbtdef$2.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$1b3f7c7c5cce064487f9$$anonfun$$sbtdef$3.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$1b3f7c7c5cce064487f9$.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$1b3f7c7c5cce064487f9.cache" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$1b3f7c7c5cce064487f9.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$4f277d519bf33d8b873b$$anonfun$$sbtdef$1.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$4f277d519bf33d8b873b$.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$4f277d519bf33d8b873b.cache" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$4f277d519bf33d8b873b.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$661f3f175dfc506f8d76$$anonfun$$sbtdef$1.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$661f3f175dfc506f8d76$.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$661f3f175dfc506f8d76.cache" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$661f3f175dfc506f8d76.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$66ba201561b0a94f2ad7$$anonfun$$sbtdef$1$$anonfun$apply$1.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$66ba201561b0a94f2ad7$$anonfun$$sbtdef$1.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$66ba201561b0a94f2ad7$$anonfun$$sbtdef$2.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$66ba201561b0a94f2ad7$$anonfun$$sbtdef$3.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$66ba201561b0a94f2ad7$.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$66ba201561b0a94f2ad7.cache" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$66ba201561b0a94f2ad7.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$693cb4486f26443cc644$$anonfun$$sbtdef$1.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$693cb4486f26443cc644$.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$693cb4486f26443cc644.cache" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$693cb4486f26443cc644.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$7ff722961a24acf65389$$anonfun$$sbtdef$1.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$7ff722961a24acf65389$.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$7ff722961a24acf65389.cache" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$7ff722961a24acf65389.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$8e9ff347bab887482fb1$$anonfun$$sbtdef$1.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$8e9ff347bab887482fb1$.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$8e9ff347bab887482fb1.cache" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$8e9ff347bab887482fb1.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$982db5d948d785bd22ad$$anonfun$$sbtdef$1.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$982db5d948d785bd22ad$.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$982db5d948d785bd22ad.cache" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$982db5d948d785bd22ad.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$9fcb5aeda8b4ca9d8c14$$anonfun$$sbtdef$1.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$9fcb5aeda8b4ca9d8c14$.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$9fcb5aeda8b4ca9d8c14.cache" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$9fcb5aeda8b4ca9d8c14.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$a4f848cea8ab9f4bfaf0$$anonfun$$sbtdef$1.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$a4f848cea8ab9f4bfaf0$.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$a4f848cea8ab9f4bfaf0.cache" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$a4f848cea8ab9f4bfaf0.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$aab9f9fbf333b2c4888e$$anonfun$$sbtdef$1.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$aab9f9fbf333b2c4888e$.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$aab9f9fbf333b2c4888e.cache" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$aab9f9fbf333b2c4888e.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$c27947cfebb896eb0d43$$anonfun$$sbtdef$1.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$c27947cfebb896eb0d43$.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$c27947cfebb896eb0d43.cache" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$c27947cfebb896eb0d43.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$ec6ca79fcc3e2772b23b$$anonfun$$sbtdef$1.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$ec6ca79fcc3e2772b23b$.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$ec6ca79fcc3e2772b23b.cache" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$ec6ca79fcc3e2772b23b.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/project/target/streams/$global/ivyConfiguration/$global/streams/out" afterPath="$PROJECT_DIR$/project/target/streams/$global/ivyConfiguration/$global/streams/out" />
-      <change beforePath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/out" afterPath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/out" />
-      <change beforePath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/update_cache_2.10/inputs" afterPath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/update_cache_2.10/inputs" />
-      <change beforePath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/update_cache_2.10/output" afterPath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/update_cache_2.10/output" />
-      <change beforePath="$PROJECT_DIR$/project/target/streams/compile/compileIncremental/$global/streams/out" afterPath="$PROJECT_DIR$/project/target/streams/compile/compileIncremental/$global/streams/out" />
-      <change beforePath="$PROJECT_DIR$/project/target/streams/compile/copyResources/$global/streams/out" afterPath="$PROJECT_DIR$/project/target/streams/compile/copyResources/$global/streams/out" />
-      <change beforePath="$PROJECT_DIR$/project/target/streams/compile/dependencyClasspath/$global/streams/export" afterPath="$PROJECT_DIR$/project/target/streams/compile/dependencyClasspath/$global/streams/export" />
-      <change beforePath="$PROJECT_DIR$/project/target/streams/compile/exportedProducts/$global/streams/export" afterPath="$PROJECT_DIR$/project/target/streams/compile/exportedProducts/$global/streams/export" />
-      <change beforePath="$PROJECT_DIR$/project/target/streams/compile/externalDependencyClasspath/$global/streams/export" afterPath="$PROJECT_DIR$/project/target/streams/compile/externalDependencyClasspath/$global/streams/export" />
-      <change beforePath="$PROJECT_DIR$/project/target/streams/compile/internalDependencyClasspath/$global/streams/export" afterPath="$PROJECT_DIR$/project/target/streams/compile/internalDependencyClasspath/$global/streams/export" />
-      <change beforePath="$PROJECT_DIR$/project/target/streams/compile/managedClasspath/$global/streams/export" afterPath="$PROJECT_DIR$/project/target/streams/compile/managedClasspath/$global/streams/export" />
-      <change beforePath="$PROJECT_DIR$/project/target/streams/compile/unmanagedClasspath/$global/streams/export" afterPath="$PROJECT_DIR$/project/target/streams/compile/unmanagedClasspath/$global/streams/export" />
-      <change beforePath="$PROJECT_DIR$/project/target/streams/compile/unmanagedJars/$global/streams/export" afterPath="$PROJECT_DIR$/project/target/streams/compile/unmanagedJars/$global/streams/export" />
-      <change beforePath="$PROJECT_DIR$/project/target/streams/runtime/dependencyClasspath/$global/streams/export" afterPath="$PROJECT_DIR$/project/target/streams/runtime/dependencyClasspath/$global/streams/export" />
-      <change beforePath="$PROJECT_DIR$/project/target/streams/runtime/exportedProducts/$global/streams/export" afterPath="$PROJECT_DIR$/project/target/streams/runtime/exportedProducts/$global/streams/export" />
-      <change beforePath="$PROJECT_DIR$/project/target/streams/runtime/externalDependencyClasspath/$global/streams/export" afterPath="$PROJECT_DIR$/project/target/streams/runtime/externalDependencyClasspath/$global/streams/export" />
-      <change beforePath="$PROJECT_DIR$/project/target/streams/runtime/fullClasspath/$global/streams/export" afterPath="$PROJECT_DIR$/project/target/streams/runtime/fullClasspath/$global/streams/export" />
-      <change beforePath="$PROJECT_DIR$/project/target/streams/runtime/internalDependencyClasspath/$global/streams/export" afterPath="$PROJECT_DIR$/project/target/streams/runtime/internalDependencyClasspath/$global/streams/export" />
-      <change beforePath="$PROJECT_DIR$/project/target/streams/runtime/managedClasspath/$global/streams/export" afterPath="$PROJECT_DIR$/project/target/streams/runtime/managedClasspath/$global/streams/export" />
-      <change beforePath="$PROJECT_DIR$/project/target/streams/runtime/unmanagedClasspath/$global/streams/export" afterPath="$PROJECT_DIR$/project/target/streams/runtime/unmanagedClasspath/$global/streams/export" />
-      <change beforePath="$PROJECT_DIR$/project/target/streams/runtime/unmanagedJars/$global/streams/export" afterPath="$PROJECT_DIR$/project/target/streams/runtime/unmanagedJars/$global/streams/export" />
-      <change beforePath="$PROJECT_DIR$/target/streams/$global/$global/dumpStructure/$global/streams/out" afterPath="$PROJECT_DIR$/target/streams/$global/$global/dumpStructure/$global/streams/out" />
-      <change beforePath="$PROJECT_DIR$/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.11/output_dsp" afterPath="$PROJECT_DIR$/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.11/output_dsp" />
-      <change beforePath="$PROJECT_DIR$/target/streams/$global/ivyConfiguration/$global/streams/out" afterPath="$PROJECT_DIR$/target/streams/$global/ivyConfiguration/$global/streams/out" />
-      <change beforePath="$PROJECT_DIR$/target/streams/$global/update/$global/streams/out" afterPath="$PROJECT_DIR$/target/streams/$global/update/$global/streams/out" />
-      <change beforePath="$PROJECT_DIR$/target/streams/$global/update/$global/streams/update_cache_2.11/inputs" afterPath="$PROJECT_DIR$/target/streams/$global/update/$global/streams/update_cache_2.11/inputs" />
-      <change beforePath="$PROJECT_DIR$/target/streams/$global/update/$global/streams/update_cache_2.11/output" afterPath="$PROJECT_DIR$/target/streams/$global/update/$global/streams/update_cache_2.11/output" />
-      <change beforePath="$PROJECT_DIR$/target/streams/$global/updateClassifiers/$global/streams/out" afterPath="$PROJECT_DIR$/target/streams/$global/updateClassifiers/$global/streams/out" />
-      <change beforePath="$PROJECT_DIR$/target/streams/compile/externalDependencyClasspath/$global/streams/export" afterPath="$PROJECT_DIR$/target/streams/compile/externalDependencyClasspath/$global/streams/export" />
-      <change beforePath="$PROJECT_DIR$/target/streams/compile/managedClasspath/$global/streams/export" afterPath="$PROJECT_DIR$/target/streams/compile/managedClasspath/$global/streams/export" />
-      <change beforePath="$PROJECT_DIR$/target/streams/compile/unmanagedClasspath/$global/streams/export" afterPath="$PROJECT_DIR$/target/streams/compile/unmanagedClasspath/$global/streams/export" />
-      <change beforePath="$PROJECT_DIR$/target/streams/compile/unmanagedJars/$global/streams/export" afterPath="$PROJECT_DIR$/target/streams/compile/unmanagedJars/$global/streams/export" />
-      <change beforePath="$PROJECT_DIR$/target/streams/runtime/externalDependencyClasspath/$global/streams/export" afterPath="$PROJECT_DIR$/target/streams/runtime/externalDependencyClasspath/$global/streams/export" />
-      <change beforePath="$PROJECT_DIR$/target/streams/runtime/managedClasspath/$global/streams/export" afterPath="$PROJECT_DIR$/target/streams/runtime/managedClasspath/$global/streams/export" />
-      <change beforePath="$PROJECT_DIR$/target/streams/runtime/unmanagedClasspath/$global/streams/export" afterPath="$PROJECT_DIR$/target/streams/runtime/unmanagedClasspath/$global/streams/export" />
-      <change beforePath="$PROJECT_DIR$/target/streams/runtime/unmanagedJars/$global/streams/export" afterPath="$PROJECT_DIR$/target/streams/runtime/unmanagedJars/$global/streams/export" />
-      <change beforePath="$PROJECT_DIR$/target/streams/test/externalDependencyClasspath/$global/streams/export" afterPath="$PROJECT_DIR$/target/streams/test/externalDependencyClasspath/$global/streams/export" />
-      <change beforePath="$PROJECT_DIR$/target/streams/test/managedClasspath/$global/streams/export" afterPath="$PROJECT_DIR$/target/streams/test/managedClasspath/$global/streams/export" />
-      <change beforePath="$PROJECT_DIR$/target/streams/test/unmanagedClasspath/$global/streams/export" afterPath="$PROJECT_DIR$/target/streams/test/unmanagedClasspath/$global/streams/export" />
-      <change beforePath="$PROJECT_DIR$/target/streams/test/unmanagedJars/$global/streams/export" afterPath="$PROJECT_DIR$/target/streams/test/unmanagedJars/$global/streams/export" />
-    </list>
+    <list default="true" id="ec2cb449-05a0-45a1-8c2e-81970a3780d5" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/project/project/target/" />
     <ignored path="$PROJECT_DIR$/project/target/" />
@@ -128,18 +18,7 @@
     </projectState>
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="a.txt" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/no/a.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-662">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -185,11 +64,6 @@
             <path>
               <item name="DIstributedServer" type="b2602c69:ProjectViewProjectNode" />
               <item name="DistributedScalaCrawler" type="462c0819:PsiDirectoryNode" />
-              <item name="no" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="DIstributedServer" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DistributedScalaCrawler" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -197,6 +71,11 @@
               <item name="DistributedScalaCrawler" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DIstributedServer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DistributedScalaCrawler" type="462c0819:PsiDirectoryNode" />
+              <item name="yes" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
